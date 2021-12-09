@@ -1,0 +1,101 @@
+ShoppingID,FirstName,LastName,Email,RegistrationDate,LastShoppingDate,LocationRegistration,CurrentPoints,HighestPoints,PreferredReward,LastPurchaseMode
+1,Kimmy,Pattin,Kimmy.Pattin@samplemail.com,2021-05-14,2021-11-18,Pasay City,12,1370,Food Discount,Online
+2,Margarette,Hutchison,Margarette.Hutchison@samplemail.com,2013-07-02,2021-08-08,Makati City,720,1257,Freebie,Mall
+3,Melanie,Charmine,Melanie.Charmine@samplemail.com,2017-03-02,2021-07-20,Alabang City,770,1880,Gift Check,Mall
+4,Angela,Khorma,Angela.Khorma@samplemail.com,2011-06-19,2021-09-19,Pasay City,848,1964,Freebie,Mall
+5,Caryl,Voletta,Caryl.Voletta@samplemail.com,2017-05-16,2021-05-06,Manila City,259,1214,Food Discount,Mall
+6,Jaclyn,Ellerey,Jaclyn.Ellerey@samplemail.com,2016-06-12,2021-10-27,Pasay City,594,1714,Leisure Discount,Online
+7,Petronia,Trace,Petronia.Trace@samplemail.com,2012-04-17,2021-04-07,Makati City,123,1556,Food Discount,Mall
+8,Marguerite,Bow,Marguerite.Bow@samplemail.com,2018-10-09,2021-01-19,Taguig City,521,1641,Gift Check,Mall
+9,Berta,Kaete,Berta.Kaete@samplemail.com,2019-04-02,2021-08-08,Alabang City,915,1450,Food Discount,Mall
+10,Rosabelle,Halla,Rosabelle.Halla@samplemail.com,2015-02-17,2021-08-04,Pasay City,811,1024,Leisure Discount,Online
+11,Trudie,Liva,Trudie.Liva@samplemail.com,2018-02-17,2021-07-28,Pasay City,908,1844,Freebie,Online
+12,Fayre,Voletta,Fayre.Voletta@samplemail.com,2011-05-04,2021-09-11,Pasay City,516,1960,Freebie,Mall
+13,Stephanie,Ethban,Stephanie.Ethban@samplemail.com,2011-12-05,2021-10-09,Alabang City,387,1357,Food Discount,Online
+14,Ileana,Riordan,Ileana.Riordan@samplemail.com,2019-08-23,2021-10-03,Taguig City,550,1375,Product Discount,Online
+15,Reeba,Borrell,Reeba.Borrell@samplemail.com,2018-11-19,2021-07-11,Pasay City,218,1688,Product Discount,Online
+16,Florie,Dorine,Florie.Dorine@samplemail.com,2018-07-09,2021-10-30,Pasay City,432,1506,Gift Check,Mall
+17,Melisent,Virgin,Melisent.Virgin@samplemail.com,2013-06-11,2021-09-06,Pasay City,81,1438,Leisure Discount,Mall
+18,Lynea,Dawkins,Lynea.Dawkins@samplemail.com,2020-11-23,2021-06-14,Pasay City,471,1055,Food Discount,Online
+19,Kenna,Noelyn,Kenna.Noelyn@samplemail.com,2013-11-09,2021-09-24,Pasay City,642,1688,Food Discount,Mall
+20,Therine,Leler,Therine.Leler@samplemail.com,2013-01-30,2021-01-18,Alabang City,189,1700,Freebie,Mall
+21,Kirstin,Zola,Kirstin.Zola@samplemail.com,2021-10-20,2021-09-29,Manila City,48,1642,Product Discount,Mall
+22,Rhea,Wenda,Rhea.Wenda@samplemail.com,2012-12-17,2021-06-22,Taguig City,817,1628,Gift Check,Mall
+23,Lorenza,Sabella,Lorenza.Sabella@samplemail.com,2019-05-05,2021-03-10,Manila City,129,1298,Freebie,Mall
+24,Althea,Skurnik,Althea.Skurnik@samplemail.com,2018-06-27,2021-10-02,Alabang City,804,1785,Freebie,Online
+25,Fred,Stevy,Fred.Stevy@samplemail.com,2012-06-26,2021-10-21,Alabang City,181,1361,Product Discount,Mall
+26,Doralynne,Dielu,Doralynne.Dielu@samplemail.com,2016-12-19,2021-03-16,Alabang City,408,1497,Product Discount,Mall
+27,Emelina,Ilka,Emelina.Ilka@samplemail.com,2021-09-01,2021-03-17,Pasay City,534,1255,Freebie,Mall
+28,Sam,Juliet,Sam.Juliet@samplemail.com,2019-08-13,2021-09-05,Alabang City,614,1392,Leisure Discount,Online
+29,Miquela,McCutcheon,Miquela.McCutcheon@samplemail.com,2014-01-04,2021-01-23,Makati City,553,1727,Product Discount,Mall
+30,Hayley,Hillel,Hayley.Hillel@samplemail.com,2021-06-11,2021-02-06,Alabang City,776,1410,Leisure Discount,Mall
+31,Nikki,Velick,Nikki.Velick@samplemail.com,2020-03-17,2021-07-07,Makati City,66,1060,Food Discount,Online
+32,Orsola,Kenney,Orsola.Kenney@samplemail.com,2017-11-14,2021-02-11,Alabang City,814,1204,Leisure Discount,Online
+33,Raquela,Willie,Raquela.Willie@samplemail.com,2012-07-31,2021-03-13,Makati City,808,1473,Leisure Discount,Mall
+34,Mildrid,Serilda,Mildrid.Serilda@samplemail.com,2013-04-05,2021-11-21,Alabang City,25,1785,Gift Check,Mall
+35,Danika,Zamora,Danika.Zamora@samplemail.com,2018-03-22,2021-05-12,Taguig City,725,1228,Freebie,Online
+36,Sissy,Federica,Sissy.Federica@samplemail.com,2015-09-02,2021-06-28,Alabang City,358,1695,Freebie,Mall
+37,Laure,Mich,Laure.Mich@samplemail.com,2016-11-29,2021-04-08,Taguig City,16,1903,Gift Check,Online
+38,Georgetta,Even,Georgetta.Even@samplemail.com,2017-03-28,2021-10-21,Manila City,347,1069,Product Discount,Online
+39,Ariela,Fennessy,Ariela.Fennessy@samplemail.com,2014-10-24,2021-07-17,Makati City,495,1317,Product Discount,Mall
+40,Gisela,Bigner,Gisela.Bigner@samplemail.com,2021-05-19,2021-04-11,Manila City,430,1011,Gift Check,Online
+41,Halette,Taima,Halette.Taima@samplemail.com,2013-12-18,2021-03-04,Alabang City,739,1900,Freebie,Mall
+42,Dianemarie,Lia,Dianemarie.Lia@samplemail.com,2011-11-07,2021-08-23,Manila City,140,1145,Leisure Discount,Mall
+43,Aurore,Kenwood,Aurore.Kenwood@samplemail.com,2017-01-17,2021-01-29,Manila City,567,1837,Food Discount,Online
+44,Etta,Jobi,Etta.Jobi@samplemail.com,2019-11-23,2021-05-24,Makati City,73,1678,Food Discount,Online
+45,Arlena,Reidar,Arlena.Reidar@samplemail.com,2013-11-01,2021-11-13,Taguig City,420,1688,Product Discount,Online
+46,Rosene,Merna,Rosene.Merna@samplemail.com,2015-08-06,2021-01-17,Makati City,381,1457,Leisure Discount,Online
+47,Stevana,Morrill,Stevana.Morrill@samplemail.com,2019-05-18,2021-01-18,Taguig City,54,1184,Gift Check,Mall
+48,Dolli,Bahr,Dolli.Bahr@samplemail.com,2012-07-21,2021-05-04,Makati City,577,1261,Leisure Discount,Online
+49,Ellette,Scammon,Ellette.Scammon@samplemail.com,2018-03-04,2021-07-27,Manila City,492,1886,Freebie,Online
+50,Shell,Laurianne,Shell.Laurianne@samplemail.com,2020-03-01,2021-04-04,Taguig City,84,1742,Freebie,Mall
+51,Judy,Socha,Judy.Socha@samplemail.com,2011-05-13,2021-09-02,Manila City,837,1168,Freebie,Mall
+52,Melodie,Dosia,Melodie.Dosia@samplemail.com,2019-01-01,2021-05-23,Pasay City,101,1333,Gift Check,Online
+53,Raquela,Kare,Raquela.Kare@samplemail.com,2017-01-15,2021-09-04,Pasay City,229,1657,Gift Check,Online
+54,Dulce,Holbrook,Dulce.Holbrook@samplemail.com,2013-07-08,2021-08-02,Taguig City,442,1237,Food Discount,Online
+55,Inga,Auberbach,Inga.Auberbach@samplemail.com,2018-08-29,2021-10-10,Alabang City,821,1120,Leisure Discount,Mall
+56,Taffy,Publia,Taffy.Publia@samplemail.com,2020-08-05,2021-10-01,Pasay City,874,1230,Food Discount,Online
+57,Nickie,Gladstone,Nickie.Gladstone@samplemail.com,2016-04-04,2021-06-19,Pasay City,210,1106,Freebie,Mall
+58,Mahalia,Stelle,Mahalia.Stelle@samplemail.com,2016-05-26,2021-11-03,Makati City,117,1115,Leisure Discount,Online
+59,Catrina,Amand,Catrina.Amand@samplemail.com,2016-05-09,2021-06-10,Alabang City,971,1454,Freebie,Mall
+60,Aili,Stover,Aili.Stover@samplemail.com,2020-05-29,2021-06-22,Makati City,671,1735,Freebie,Mall
+61,Rozele,Gale,Rozele.Gale@samplemail.com,2015-01-20,2021-02-06,Taguig City,12,1769,Gift Check,Online
+62,Tybie,Bearnard,Tybie.Bearnard@samplemail.com,2012-07-07,2021-05-22,Makati City,72,1178,Food Discount,Mall
+63,Clo,Pond,Clo.Pond@samplemail.com,2011-05-06,2021-11-06,Taguig City,70,1287,Product Discount,Mall
+64,Xylina,Cookie,Xylina.Cookie@samplemail.com,2011-10-21,2021-03-29,Alabang City,768,1764,Gift Check,Online
+65,Jolyn,Ralfston,Jolyn.Ralfston@samplemail.com,2013-12-23,2021-11-09,Alabang City,350,1338,Product Discount,Online
+66,Candy,Percy,Candy.Percy@samplemail.com,2015-05-24,2021-05-25,Taguig City,302,1049,Gift Check,Online
+67,Cacilie,Westphal,Cacilie.Westphal@samplemail.com,2021-06-16,2021-08-06,Manila City,378,1601,Product Discount,Online
+68,Maisey,Diogenes,Maisey.Diogenes@samplemail.com,2021-11-14,2021-06-16,Alabang City,794,1051,Gift Check,Mall
+69,Kathi,Allina,Kathi.Allina@samplemail.com,2021-11-07,2021-10-02,Taguig City,355,1910,Freebie,Mall
+70,Amara,Chem,Amara.Chem@samplemail.com,2011-04-06,2021-10-29,Taguig City,695,1564,Leisure Discount,Mall
+71,Silvana,Maples,Silvana.Maples@samplemail.com,2021-10-12,2021-09-08,Pasay City,315,1213,Freebie,Mall
+72,Trudie,Honoria,Trudie.Honoria@samplemail.com,2012-03-04,2021-01-10,Manila City,619,1184,Gift Check,Mall
+73,Caressa,Harl,Caressa.Harl@samplemail.com,2019-12-03,2021-07-05,Manila City,863,1016,Gift Check,Mall
+74,Helena,Jillane,Helena.Jillane@samplemail.com,2014-03-04,2021-08-21,Makati City,963,1778,Gift Check,Mall
+75,Michaelina,Parsaye,Michaelina.Parsaye@samplemail.com,2017-05-14,2021-01-11,Makati City,241,1110,Food Discount,Online
+76,Ekaterina,Read,Ekaterina.Read@samplemail.com,2017-07-17,2021-04-09,Manila City,235,1604,Product Discount,Mall
+77,Latisha,Linskey,Latisha.Linskey@samplemail.com,2013-11-16,2021-08-04,Makati City,296,1712,Product Discount,Mall
+78,Annabela,Bartlett,Annabela.Bartlett@samplemail.com,2015-08-20,2021-08-06,Manila City,471,1479,Food Discount,Mall
+79,Dennie,Briney,Dennie.Briney@samplemail.com,2015-03-21,2021-10-13,Pasay City,6,1077,Food Discount,Online
+80,Amelia,Lory,Amelia.Lory@samplemail.com,2019-04-14,2021-07-09,Makati City,283,1033,Leisure Discount,Mall
+81,Cristabel,Baudin,Cristabel.Baudin@samplemail.com,2016-05-19,2021-05-29,Taguig City,612,1483,Leisure Discount,Mall
+82,Elyssa,Uird,Elyssa.Uird@samplemail.com,2012-08-12,2021-09-13,Pasay City,161,1800,Food Discount,Mall
+83,Charissa,Berriman,Charissa.Berriman@samplemail.com,2017-11-02,2021-01-23,Manila City,75,1171,Leisure Discount,Online
+84,Charissa,Soneson,Charissa.Soneson@samplemail.com,2019-11-19,2021-06-29,Manila City,340,1496,Gift Check,Mall
+85,Joy,Fiann,Joy.Fiann@samplemail.com,2016-04-12,2021-08-05,Taguig City,650,1131,Freebie,Mall
+86,Ericka,Ahab,Ericka.Ahab@samplemail.com,2017-07-08,2021-04-01,Manila City,316,1071,Leisure Discount,Mall
+87,Carree,Clarissa,Carree.Clarissa@samplemail.com,2012-12-26,2021-02-06,Taguig City,234,1853,Product Discount,Online
+88,Melisent,An,Melisent.An@samplemail.com,2017-11-21,2021-02-23,Alabang City,83,1693,Food Discount,Online
+89,Dione,Salchunas,Dione.Salchunas@samplemail.com,2019-09-09,2021-08-02,Alabang City,905,1000,Freebie,Mall
+90,Lauryn,Brian,Lauryn.Brian@samplemail.com,2017-04-16,2021-08-31,Taguig City,44,1892,Product Discount,Mall
+91,Daryl,Camden,Daryl.Camden@samplemail.com,2012-02-29,2021-05-06,Alabang City,186,1187,Freebie,Mall
+92,Correy,Sophronia,Correy.Sophronia@samplemail.com,2014-11-18,2021-03-19,Taguig City,758,1143,Gift Check,Mall
+93,Ruthe,Glenden,Ruthe.Glenden@samplemail.com,2020-08-31,2021-01-29,Alabang City,262,1915,Food Discount,Mall
+94,Lauryn,Vanni,Lauryn.Vanni@samplemail.com,2011-12-19,2021-02-19,Alabang City,441,1092,Leisure Discount,Mall
+95,Adele,Aaberg,Adele.Aaberg@samplemail.com,2017-01-30,2021-10-30,Pasay City,763,1825,Gift Check,Mall
+96,Violet,Ilka,Violet.Ilka@samplemail.com,2011-09-28,2021-10-20,Alabang City,647,1778,Gift Check,Mall
+97,Demetris,Tice,Demetris.Tice@samplemail.com,2011-01-01,2021-03-04,Makati City,342,1957,Product Discount,Mall
+98,Debee,Blisse,Debee.Blisse@samplemail.com,2014-03-13,2021-10-22,Pasay City,182,1150,Freebie,Mall
+99,Gertrud,Friede,Gertrud.Friede@samplemail.com,2016-07-28,2021-07-06,Alabang City,294,1421,Freebie,Mall
+100,Kassey,Trinetta,Kassey.Trinetta@samplemail.com,2020-05-05,2021-02-12,Taguig City,982,1558,Product Discount,Mall
